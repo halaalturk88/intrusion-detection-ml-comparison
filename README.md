@@ -129,7 +129,7 @@ The project provides a framework for comparing intrusion detection models across
 
 The accompanying academic report discusses the expected impact of dataset complexity, feature redundancy, model selection, and hyperparameter tuning.
 
-**Current status:** Verified numerical results are not included in this repository. Experimental performance comparisons will be documented after successfully running and validating the models.
+Project Status: Completed and tested as part of a university coursework assignment. Original experimental results are not currently included in this repository.
 
 ## Project Limitations
 
